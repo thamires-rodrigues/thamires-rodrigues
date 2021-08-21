@@ -1,8 +1,8 @@
-Olá! 👋
+Hello! 👋
 
-- ⚡  Cursando Técnico em Informática
-- 🌱 Estudando Desenvolvimento Web
-- 📫 E-mail para contato: thamires.rodrigues89@outlook.com
-- 😄 Buscando formas de conhecimento
+- ⚡ Studying to be a computer technician
+- 🌱 Learning Web Development
+- 📫 E-mail: thamires.rodrigues89@outlook.com
+- 😄 knowledge is power and I want to be powerful
 
 
