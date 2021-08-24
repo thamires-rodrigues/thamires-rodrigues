@@ -8,7 +8,6 @@
 <div>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=thamires-rodrigues&show_icons=true&theme=merko"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamires-rodrigues&layout=compact"/>
-  ![snake animation](https://github.com/thamires-rodrigues/thamires-rodrigues/blob/main/.github/workflows/main.yml)
 </div>
 
 
