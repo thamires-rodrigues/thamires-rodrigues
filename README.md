@@ -18,3 +18,6 @@
   <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
 </div>
+<div>
+  ![Snake animation](https://github.com/thamires-rodrigues/thamires-rodrigues/commit/2aa9caa6475b602bf879b6255c78a03ba48f1b77)
+</div>
