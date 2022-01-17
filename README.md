@@ -2,7 +2,7 @@
 
 - 🖥️ Computer Technician   
 - ❤️ Web Development
-- 📁 Learning JavaScript
+- 📁 Learning Java
 - 📫 E-mail: thamires.rodrigues89@outlook.com
 - 📚 knowledge is power and I want to be powerful
 
