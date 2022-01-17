@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-- 🖥️ I'm computer technician   
+- 🖥️ Computer Technician   
 - ❤️ Web Development
 - 📁 Learning JavaScript
 - 📫 E-mail: thamires.rodrigues89@outlook.com
