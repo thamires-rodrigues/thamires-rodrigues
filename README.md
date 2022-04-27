@@ -1,10 +1,9 @@
-## Hello! 👋
+## Olá! 👋
 
-- 🖥️ Computer Technician   
-- ❤️ Web Development
-- 📁 Learning Java
+- 🖥️ Técnica em Informática 
+- 📚 Análise e Desenvolvimento de Sistemas
+- ❤️ Desenvolvimento Web
 - 📫 E-mail: thamires.rodrigues89@outlook.com
-- 📚 knowledge is power and I want to be powerful
 
 <div>
   <img align height="180" src="https://github-readme-stats.vercel.app/api?username=thamires-rodrigues&show_icons=true&theme=radical"/>
