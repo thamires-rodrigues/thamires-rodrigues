@@ -1,24 +1,60 @@
-## Olá! 👋
+# Thamires de Melo Rodrigues
 
-- 🖥️ Técnica em Informática 
-- 📚 Análise e Desenvolvimento de Sistemas
-- ❤️ Desenvolvimento Web
-- 📫 E-mail: thamires.rodrigues89@outlook.com
+📍 Campinas, SP – Brazil  
+📞 +55 19 99296-0593  
+✉️ thamires.rodrigues89@outlook.com  
+🔗 LinkedIn: https://www.linkedin.com/in/thamires-melo-rodrigues/  
+💻 GitHub: https://github.com/thamires-rodrigues
 
-<div>
-  <img align height="180" src="https://github-readme-stats.vercel.app/api?username=thamires-rodrigues&show_icons=true&theme=radical"/>
-  <img align="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thamires-rodrigues&layout=compact"/>
-</div>
-<div>
-  <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-  <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-  <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-  <img width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-</div>
-<div>
-  <img src="https://github.com/thamires-rodrigues/thamires-rodrigues/blob/output/github-contribution-grid-snake.svg"/>
-</div>
+---
+
+## Professional Summary
+
+ServiceNow Developer with experience in platform customization, testing, automation, validation, and continuous improvement. Strong background working with SecOps (IRM/GRC) and APM (Enterprise Architecture Workspace) modules, leveraging low-code/no-code resources and JavaScript. Experienced in agile environments, contributing to stable, scalable, and high-quality enterprise solutions.
+
+---
+
+## Professional Experience
+
+### IBM — ServiceNow Developer  
+*2022 – 2025*
+
+- Development and customization of solutions on the ServiceNow platform, focusing on SecOps (IRM/GRC) and APM (Enterprise Architecture Workspace) applications
+- Implementation of improvements and new features using low-code/no-code tools and JavaScript
+- Execution of testing, validation, and platform stability support across multiple environments (development, testing, and production)
+- Work within agile methodologies, delivering features in sprints and actively participating in ceremonies
+- Contribution to technical documentation, quality assurance, and continuous improvement initiatives
+
+---
+
+## Technologies & Tools
+
+- **ServiceNow:** SecOps (IRM/GRC), APM (Enterprise Architecture Workspace)
+- **Programming Languages:** JavaScript, Python, C, C#, PHP, HTML, CSS
+- **Methodologies & Tools:** Agile / Scrum, Jira, Trello, Kanban
+
+---
+
+## Education
+
+- **Associate Degree in Systems Analysis and Development** – Uninter *(2022 – 2024)*
+- **ONE – Oracle Next Education** – Alura *(2022)*
+- **Technical Degree in Information Technology** – Escola Salesiana São José *(2020 – 2021)*
+
+---
+
+## Languages
+
+- Portuguese – Native
+- English – Advanced
+- Spanish – Basic
+
+---
+
+## Academic Awards
+
+- 1st Place – Humanities and Languages, Bragantec – Science and Technology Fair
+- 2nd Place – Overall Ranking, Bragantec
+- Special Award – Alteridade
+- 2nd Place – Humanities, 9th Science and Technology Fair – Instituto 3M
+
